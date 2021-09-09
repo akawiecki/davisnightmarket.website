@@ -1,0 +1,19 @@
+---
+title: "Video test"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+  
+  https://github.com/yihui/xaringan/issues/180
+  
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8lXdyD2Yzls?controls=0&amp;start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---

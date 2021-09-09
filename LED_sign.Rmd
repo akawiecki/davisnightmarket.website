@@ -1,0 +1,19 @@
+---
+title: "LED_sign"
+author: "Ania Kawiecki"
+date: "9/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### Make an LED-lit sign 
+
+for the front/back/lateral
+
+- Design artwork that will go on the panels: draw it on the plywood with a pencil
+
+- Use the jigsaw to cut the artwork design: we initially drill a wide hole that the jigsaw will fit through, and then use the jigsaw to cut the design. 

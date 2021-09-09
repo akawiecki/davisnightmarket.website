@@ -1,0 +1,34 @@
+---
+title: "davisnightmarket.website"
+author: "Ania Kawiecki"
+date: "9/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+github pages: 
+https://pages.github.com/
+https://docs.github.com/en/pages
+https://docs.github.com/en/pages/getting-started-with-github-pages
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+
+
+jekyll site:
+https://bookdown.org/yihui/blogdown/jekyll.html
+https://jekyllrb.com/
+install jekyll: https://jekyllrb.com/docs/
+install jekyll on mac: https://jekyllrb.com/docs/installation/macos/
+
+website with jekyll: 
+https://jekyll.yihui.org/2014/09/jekyll-with-knitr.html
+https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#Why_do_I_need_an_R_Project
+https://selbydavid.com/2017/06/16/rmarkdown-jekyll/
+
+normal rmarkdown pages: https://jchellmuth.com/news/jekyll/website/code/2020/01/04/Rmarkdown-posts-to-Jekyll.html
+
+
+
